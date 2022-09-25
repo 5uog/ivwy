@@ -24,24 +24,59 @@
 
 
 <h1 align="center">« fbpibazbyvu » </h1>
-<table align="right"><th><i><h4 align="center">Base64 <a href="">♡</a></h4></i></th>
-<tr><td><code><a href="">YmFmYmIgdXBvaCB6dnG5sd<br>R2enZ0diB0dnJiYWxycCG5<br>
-B0diByaHRwIHR2IHp2dWBq<br>5ocCB6cGFsdnloZ2IsIHp2<br>dXYgcXBicXBhemIgZHYgdH<br>
-BhdnRseWIgcnZhdiB1cpvc<br>GZ2eXAgcXB1eWJwIG9oIHR<br>wZ2JyaHloIHRweWhwIGR2I<br>
-HJweXBvcHlocmIgbHBqb3A<br>gYXYgZmJicnAgZHYgdHZhb<br>liZnZidXAgdWh5YmF2LCBx<br>
-hycmItdHZ5di0gb2ggemZw<br>mZiWYZ2YiB6cGFscHlidXZ<br>raC4gcnZ1dmZ2YnVoIhvcC<br>
-iBkdiBhdnJwLCB6dnV2IGJ<br>sIHVwIGhhaaHloem9wcCB5<br>dnV5cCBkdiBydmJqb3ByYi<br>
-B6YnliIHJ2YXZvaCBrbHJw<br>dWhwdXZrbGh5Yi4gdXB1bm<br>x1IG9oIGtsdWF2YiBmaCBp<br>
-YnVyaCByaHloIHJodWdsdS<br>B1cCBxcGZiYiB1cCB1aHls<br>dWhwLiB1cHVubHUgb2gsIH<br>
-FmaHJyYi10dnl2LSBuaCBh<br>dnVobHliZnZidXAgeXB6bH<br>BhbHJwIHp2dWdocCBrbG9o<br>
-ZidXAgdHBicmx5aHlseWIu<br>IHFwZmJiIGZ2eXB0diBpZn<br>Zia3ZiIGR2IHFmYmJ6b3Ag<br>
-emJ5YiBvaHp6dmIgb2ggen<br>Z1diB5bHAga2xoeWIuIHFw<br>dHB1YXZidWhwIGtsemJ5aC<br>
-wgemx1Z2x1IHV2IGFocHps<br>cCBkdiByYnlocGF2IHRweW<br>JyaCwgb2Z2YnJoIHpiaWxy<br>
-cGF2IHRweWJyaGtsLCBnYn<br>BpYnUgcHJsdSB1diByaGFo<br>ZnZ5cCBuaCBoeWJmdmJ1cC<br>
-B2dHZkaHlseWIuIHpsdW52<br>IHRwdXpmYiB6ZmJucCB1di<br>B6dmJybHp6aHUgYXYgZnZp<br>
-aHlseWJ1dm9oLCBmYnBpYm<br>F6YiB6b3ByaHUgcmh5aHV2<br>IGtocnJmaHJiIGF2IGt2Yn<br>
-BucCBrbGh5YiBhdiBwYWFs<br>dHYgcmhudnUga2xvaHVocC<br>4ga2xvaCwgYWh1cWZidSB1<br>
-dWhwIHV2a2xoeWIuIHJoeW<br>x1cG9oIGRoeWJwcmxrdi4=</a></code><br></td></tr>
+<table align="right">
+<th><i><h4 align="center">Base64 <a href="">♡</a></h4></i></th>
+<tr><td>
+<code><a href="">YmFmYmIgdXBvaCB6dnG5sd</a></code><br>
+<code><a href="">R2enZ0diB0dnJiYWxycCG5</a></code><br>
+<code><a href="">B0diByaHRwIHR2IHp2dWBq</a></code><br>
+<code><a href="">5ocCB6cGFsdnloZ2IsIHp2</a></code><br>
+<code><a href="">dXYgcXBicXBhemIgZHYgdH</a></code><br>
+<code><a href="">BhdnRseWIgcnZhdiB1cpvc</a></code><br>
+<code><a href="">GZ2eXAgcXB1eWJwIG9oIHR</a></code><br>
+<code><a href="">wZ2JyaHloIHRweWhwIGR2I</a></code><br>
+<code><a href="">HJweXBvcHlocmIgbHBqb3A</a></code><br>
+<code><a href="">gYXYgZmJicnAgZHYgdHZhb</a></code><br>
+<code><a href="">liZnZidXAgdWh5YmF2LCBx</a></code><br>
+<code><a href="">hycmItdHZ5di0gb2ggemZw</a></code><br>
+<code><a href="">mZiWYZ2YiB6cGFscHlidXZ</a></code><br>
+<code><a href="">raC4gcnZ1dmZ2YnVoIhvcC</a></code><br>
+<code><a href="">iBkdiBhdnJwLCB6dnV2IGJ</a></code><br>
+<code><a href="">sIHVwIGhhaaHloem9wcCB5</a></code><br>
+<code><a href="">dnV5cCBkdiBydmJqb3ByYi</a></code><br>
+<code><a href="">B6YnliIHJ2YXZvaCBrbHJw</a></code><br>
+<code><a href="">dWhwdXZrbGh5Yi4gdXB1bm</a></code><br>
+<code><a href="">x1IG9oIGtsdWF2YiBmaCBp</a></code><br>
+<code><a href="">YnVyaCByaHloIHJodWdsdS</a></code><br>
+<code><a href="">B1cCBxcGZiYiB1cCB1aHls</a></code><br>
+<code><a href="">dWhwLiB1cHVubHUgb2gsIH</a></code><br>
+<code><a href="">FmaHJyYi10dnl2LSBuaCBh</a></code><br>
+<code><a href="">dnVobHliZnZidXAgeXB6bH</a></code><br>
+<code><a href="">BhbHJwIHp2dWdocCBrbG9o</a></code><br>
+<code><a href="">ZidXAgdHBicmx5aHlseWIu</a></code><br>
+<code><a href="">IHFwZmJiIGZ2eXB0diBpZn</a></code><br>
+<code><a href="">Zia3ZiIGR2IHFmYmJ6b3Ag</a></code><br>
+<code><a href="">emJ5YiBvaHp6dmIgb2ggen</a></code><br>
+<code><a href="">Z1diB5bHAga2xoeWIuIHFw</a></code><br>
+<code><a href="">dHB1YXZidWhwIGtsemJ5aC</a></code><br>
+<code><a href="">wgemx1Z2x1IHV2IGFocHps</a></code><br>
+<code><a href="">cCBkdiByYnlocGF2IHRweW</a></code><br>
+<code><a href="">JyaCwgb2Z2YnJoIHpiaWxy</a></code><br>
+<code><a href="">cGF2IHRweWJyaGtsLCBnYn</a></code><br>
+<code><a href="">BpYnUgcHJsdSB1diByaGFo</a></code><br>
+<code><a href="">ZnZ5cCBuaCBoeWJmdmJ1cC</a></code><br>
+<code><a href="">B2dHZkaHlseWIuIHpsdW52</a></code><br>
+<code><a href="">IHRwdXpmYiB6ZmJucCB1di</a></code><br>
+<code><a href="">B6dmJybHp6aHUgYXYgZnZp</a></code><br>
+<code><a href="">aHlseWJ1dm9oLCBmYnBpYm</a></code><br>
+<code><a href="">F6YiB6b3ByaHUgcmh5aHV2</a></code><br>
+<code><a href="">IGtocnJmaHJiIGF2IGt2Yn</a></code><br>
+<code><a href="">BucCBrbGh5YiBhdiBwYWFs</a></code><br>
+<code><a href="">dHYgcmhudnUga2xvaHVocC</a></code><br>
+<code><a href="">4ga2xvaCwgYWh1cWZidSB1</a></code><br>
+<code><a href="">dWhwIHV2a2xoeWIuIHJoeW</a></code><br>
+<code><a href="">x1cG9oIGRoeWJwcmxrdi4=</a></code><br>
+</td></tr>
 </table> 
 
 ## <div align="center">  zopzvb av zlazbtvu ㊙️</div>
