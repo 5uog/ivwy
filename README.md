@@ -25,7 +25,7 @@
 
 <h1 align="center">« fbpibazbyvu » </h1>
 <table align="right"><th><i><h4 align="center">Base64 <a href="">♡</a></h4></i></th>
-<tr><td><code><a href=""></a></code><br>
+<tr><td>
 <code><a href="">YmFmYmIgd</a></code><code><a href="">XBvaCB6dnG5sd</a></code><br>
 <code><a href="">R2enZ0diB0</a></code><code><a href="">dnJiYWxycCG5</a></code><br>
 <code><a href="">B0diByaHRw</a></code><code><a href="">IHR2IHp2dWBq</a></code><br>
