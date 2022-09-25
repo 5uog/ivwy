@@ -25,36 +25,24 @@
 
 <h1 align="center">« fbpibazbyvu » </h1>
 <table align="right"><th><i><h4 align="center">Base64 <a href="">♡</a></h4></i></th>
-<tr><td>
-<code><a href="">YmFmYmIgd</a></code><code><a href="">XBvaCB6dnG5sd</a></code><br>
-<code><a href="">R2enZ0diB0</a></code><code><a href="">dnJiYWxycCG5</a></code><br>
-<code><a href="">B0diByaHRw</a></code><code><a href="">IHR2IHp2dWBq</a></code><br>
-<code><a href="">5ocCB6cGFs</a></code><code><a href="">dnloZ2IsIHp2</a></code><br>
-<code><a href="">dXYgcXBicXB</a></code><code><a href="">hemIgZHYgdH</a></code><br>
-<code><a href="">BhdnRseWI</a></code><code><a href="">gcnZhdiB1cpvc</a></code><br>
-<code><a href="">GZ2eXAgcXB1</a></code><code><a href="">eWJwIG9oIHR</a></code><br>
-<code><a href="">wZ2JyaHloIHR</a></code><code><a href="">weWhwIGR2I</a></code><br>
-<code><a href="">HJweXBvcHlo</a></code><code><a href="">cmIgbHBqb3A</a></code><br>
-<code><a href="">gYXYgZmJicnA</a></code><code><a href="">gZHYgdHZhb</a></code><br>
-<code><a href="">liZnZidXAgdWh</a></code><code><a href="">5YmF2LCBx</a></code><br>
-<code><a href="">hycmItdHZ5</a></code><code><a href="">di0gb2ggemZw</a></code><br>
-<code><a href="">mZiWYZ2YiB6</a></code><code><a href="">cGFscHlidXZ</a></code><br>
-<code><a href="">raC4gcnZ1</a></code><code><a href="">dmZ2YnVoIhvcC</a></code><br>
-<code><a href="">iBkdiBhdn</a></code><code><a href="">JwLCB6dnV2IGJ</a></code><br>
-<code><a href="">sIHVwIGhha</a></code><code><a href="">aHloem9wcCB5</a></code><br>
-<code><a href="">dnV5cCBkdi</a></code><code><a href="">BydmJqb3ByYi</a></code><br>
-<code><a href="">B6YnliIHJ2</a></code><code><a href="">YXZvaCBrbHJw</a></code><br>
-<code><a href="">dWhwdXZrbGh</a></code><code><a href="">5Yi4gdXB1bm</a></code><br>
-<code><a href="">x1IG9oIGt</a></code><code><a href="">sdWF2YiBmaCBp</a></code><br>
-<code><a href="">YnVyaCByaHl</a></code><code><a href="">oIHJodWdsdS</a></code><br>
-<code><a href="">B1cCBxcGZiYi</a></code><code><a href="">B1cCB1aHls</a></code><br>
-<code><a href="">dWhwLiB1cHV</a></code><code><a href="">ubHUgb2gsIH</a></code><br>
-<code><a href="">FmaHJyYi10dn</a></code><code><a href="">l2LSBuaCBh</a></code><br>
-<code><a href="">dnVobHliZnZid</a></code><code><a href="">XAgeXB6bH</a></code><br>
-<code><a href="">BhbHJwIHp2</a></code><code><a href="">dWdocCBrbG9o</a></code><br>
-<code><a href="">dWhwIHV2a2x</a></code><code><a href="">oeWIuIHJoeW</a></code><br>
-<code><a href="">x1cG9oIG</a></code><code><a href="">RoeWJwcmxrdi4=</a></code><br>
-</td></tr></table> 
+<tr><td><code><a href="">YmFmYmIgdXBvaCB6dnG5sd<br>R2enZ0diB0dnJiYWxycCG5<br>
+B0diByaHRwIHR2IHp2dWBq<br>5ocCB6cGFsdnloZ2IsIHp2<br>dXYgcXBicXBhemIgZHYgdH<br>
+BhdnRseWIgcnZhdiB1cpvc<br>GZ2eXAgcXB1eWJwIG9oIHR<br>wZ2JyaHloIHRweWhwIGR2I<br>
+HJweXBvcHlocmIgbHBqb3A<br>gYXYgZmJicnAgZHYgdHZhb<br>liZnZidXAgdWh5YmF2LCBx<br>
+hycmItdHZ5di0gb2ggemZw<br>mZiWYZ2YiB6cGFscHlidXZ<br>raC4gcnZ1dmZ2YnVoIhvcC<br>
+iBkdiBhdnJwLCB6dnV2IGJ<br>sIHVwIGhhaaHloem9wcCB5<br>dnV5cCBkdiBydmJqb3ByYi<br>
+B6YnliIHJ2YXZvaCBrbHJw<br>dWhwdXZrbGh5Yi4gdXB1bm<br>x1IG9oIGtsdWF2YiBmaCBp<br>
+YnVyaCByaHloIHJodWdsdS<br>B1cCBxcGZiYiB1cCB1aHls<br>dWhwLiB1cHVubHUgb2gsIH<br>
+FmaHJyYi10dnl2LSBuaCBh<br>dnVobHliZnZidXAgeXB6bH<br>BhbHJwIHp2dWdocCBrbG9o<br>
+ZidXAgdHBicmx5aHlseWIu<br>IHFwZmJiIGZ2eXB0diBpZn<br>Zia3ZiIGR2IHFmYmJ6b3Ag<br>
+emJ5YiBvaHp6dmIgb2ggen<br>Z1diB5bHAga2xoeWIuIHFw<br>dHB1YXZidWhwIGtsemJ5aC<br>
+wgemx1Z2x1IHV2IGFocHps<br>cCBkdiByYnlocGF2IHRweW<br>JyaCwgb2Z2YnJoIHpiaWxy<br>
+cGF2IHRweWJyaGtsLCBnYn<br>BpYnUgcHJsdSB1diByaGFo<br>ZnZ5cCBuaCBoeWJmdmJ1cC<br>
+B2dHZkaHlseWIuIHpsdW52<br>IHRwdXpmYiB6ZmJucCB1di<br>B6dmJybHp6aHUgYXYgZnZp<br>
+aHlseWJ1dm9oLCBmYnBpYm<br>F6YiB6b3ByaHUgcmh5aHV2<br>IGtocnJmaHJiIGF2IGt2Yn<br>
+BucCBrbGh5YiBhdiBwYWFs<br>dHYgcmhudnUga2xvaHVocC<br>4ga2xvaCwgYWh1cWZidSB1<br>
+dWhwIHV2a2xoeWIuIHJoeW<br>x1cG9oIGRoeWJwcmxrdi4=</a></code><br></td></tr>
+</table> 
 
 ## <div align="center">  zopzvb av zlazbtvu ㊙️</div>
 
