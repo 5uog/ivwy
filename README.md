@@ -9,21 +9,27 @@
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-	<a href=""><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
 </p>
 
 <p align="center">
-	<a href="https://twitter.com/prod_wiihy">[Twitter]</a> ·
-	<a href="https://instagram.com/prod_wiihy">[Instagram]</a> ·
-	<a href="https://soundcloud.com/wiihy">[SoundCloud]</a> ·
-	<a href="https://www.youtube.com/channel/UC1Df-VljToDozMFJA2RMHMA">[YouTube]</a>
+  <a href="https://twitter.com/prod_wiihy">[Twitter]</a> ·
+  <a href="https://instagram.com/prod_wiihy">[Instagram]</a> ·
+  <a href="https://soundcloud.com/wiihy">[SoundCloud]</a> ·
+  <a href="https://www.youtube.com/channel/UC1Df-VljToDozMFJA2RMHMA">[YouTube]</a>
 </p>
 
-<p align="center"><a href=""><img width="525" src="./assets/img/wiihy.png"></a></p>
+<p align="center">
+  <a href=""><img width="525" src="./assets/img/wiihy.png"></a>
+</p>
 
-
+<p align="center">
+  <img width='350' src="https://github-readme-stats.vercel.app/api?username=ivwy&theme=dark" /> 
+  <img width='350' src="https://github-readme-streak-stats.herokuapp.com/?user=ivwy&theme=dark" />
+</p>
 
 <h1 align="center">« fbpibazbyvu » </h1>
+
 <table align="right">
 <th><i><h4 align="center">Base64 <a href="">♡</a></h4></i></th>
 <tr><td>
@@ -66,14 +72,7 @@
 <code><a href="">4ga2xvaCwgYWh1cWZidSB1</a></code><br>
 <code><a href="">dWhwIHV2a2xoeWIuIHJoeW</a></code><br>
 <code><a href="">x1cG9oIGRoeWJwcmxrdi4=</a></code><br>
-</td></tr>
-</table> 
-
-
-
-
-
-
+</td></tr></table> 
 
 ## <div align="center">  zopzvb av zlazbtvu ㊙️</div>
 
