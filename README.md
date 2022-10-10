@@ -59,12 +59,6 @@
 <code><a href="">FmaHJyYi10dnl2LSBuaCBh</a></code><br>
 <code><a href="">dnVobHliZnZidXAgeXB6bH</a></code><br>
 <code><a href="">BhbHJwIHp2dWdocCBrbG9o</a></code><br>
-<code><a href="">ZidXAgdHBicmx5aHlseWIu</a></code><br>
-<code><a href="">IHFwZmJiIGZ2eXB0diBpZn</a></code><br>
-<code><a href="">Zia3ZiIGR2IHFmYmJ6b3Ag</a></code><br>
-<code><a href="">emJ5YiBvaHp6dmIgb2ggen</a></code><br>
-<code><a href="">Z1diB5bHAga2xoeWIuIHFw</a></code><br>
-<code><a href="">aHlseWJ1dm9oLCBmYnBpYm</a></code><br>
 </td></tr></table> 
 
 ## <div align="center">  zopzvb av zlazbtvu ㊙️</div>
